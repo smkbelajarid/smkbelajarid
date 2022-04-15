@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 2. membuat script change navbar icons ✔
 3. menambahkan asset icons kenapa memilih weddingku & icons fitur ✔
 4. resposive navbar dari size 767px sampai 320px ✔
+5. done sesuai dengan web weddingku.id yang live ✔
+6. membuat route tentang-kami & route hubungi ✔
+7. membuat views tentang-kami & route hubungi ✔
+
+## Catatan Weddingku Yang Belum
+1. responsive moobile navbar dari size 991px (belum tahu caranya buat) ❌
+2. icons arcodion FAQ section belum otomatis berubah (belum tahu caranya buat) ❌
