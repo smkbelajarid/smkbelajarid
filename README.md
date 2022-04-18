@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 ## Catatan Weddingku Yang Belum
 1. responsive moobile navbar dari size 991px (belum tahu caranya buat) ❌
 2. icons arcodion FAQ section belum otomatis berubah (belum tahu caranya buat) ❌
+
+https://drive.google.com/drive/folders/1RTDRwkYLDbfMgeYFksy9APY4vVWK5I5J?hl=id ne bos
+
