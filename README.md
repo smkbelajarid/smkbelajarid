@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 5. done sesuai dengan web weddingku.id yang live ✔
 6. membuat route tentang-kami & route hubungi ✔
 7. membuat views tentang-kami & route hubungi ✔
+8. responsive moobile navbar dari size 991px ✔
+9. icons arcodion FAQ section belum otomatis berubah ✔
 
-## Catatan Weddingku Yang Belum
-1. responsive moobile navbar dari size 991px (belum tahu caranya buat) ❌
-2. icons arcodion FAQ section belum otomatis berubah (belum tahu caranya buat) ❌
-
-https://drive.google.com/drive/folders/1RTDRwkYLDbfMgeYFksy9APY4vVWK5I5J?hl=id ne bos
 
